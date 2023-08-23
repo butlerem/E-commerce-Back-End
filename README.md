@@ -4,7 +4,7 @@
 This project demonstrates an E-Commerce back-end application for an internet retail company built using Node.js, Express, and Sequelize, which connects to a MySQL database.
 
 ## Installation
-1. Clone the Repository
+###1. Clone the Repository
 2. Install Dependencies
     npm install
 3. Create a .env file with:
